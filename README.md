@@ -1,5 +1,5 @@
-# openeee.github.io
-Open source platform for METU EE
+# OpenEEE
+Open source platform for METU EE. You can find some lecture notes, peq, old homeworks, some old term projects (EE313, [EE314](https://github.com/openeee/EE314) )
 
 
 # Supplementary
