@@ -17,6 +17,9 @@ If there is problem with page or documents please put a [issue](https://guides.g
 * 2018 5-6th term PEQ
 * 4th year computer option documentations
 
+# Arif's Archieve
+* https://yadi.sk/d/EgX8BfGcehA7s/EE
+
 # Supplementary
 Some programming language tutorials, tips, simulation tools and other things
 
