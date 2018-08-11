@@ -11,6 +11,11 @@ If there is problem with page or documents please put a [issue](https://guides.g
 [EE302](https://github.com/openeee/EE302), [EE312](https://github.com/openeee/EE312), [EE311](https://github.com/openeee/EE311), [EE362](https://github.com/openeee/EE362), [EE348](https://github.com/openeee/EE348), [EE202](https://github.com/openeee/EE202), 
 [EE224](https://github.com/openeee/EE224), [EE313](https://github.com/nailtosun/EE313termproject), [EE314](https://github.com/openeee/EE314)
 
+# Upcomings
+* 2016 311-2 THE's
+* 2016 302 Hw's
+* 2018 5-6th term PEQ
+
 # Supplementary
 Some programming language tutorials, tips, simulation tools and other things
 
