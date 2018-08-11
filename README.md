@@ -1,5 +1,13 @@
 # OpenEEE
-Open source platform for METU EE. You can find some lecture notes, peq, old homeworks, some old term projects (EE313, [EE314](https://github.com/openeee/EE314) )
+Open source platform for METU EE. You can find some lecture notes, peq, old homeworks, some old term projects ([EE313](https://github.com/nailtosun/EE313termproject), [EE314](https://github.com/openeee/EE314) ) and supplementary things that can help. This page is not a personal github account it is **organization**. Therefore, i strongly recommend you to [collaborate](https://github.com/openeee/Supplementary/blob/master/howtoicollabrate.md)
+
+This site build on GitHub pages that mean its **extremely** easy to use. 
+
+We don't share preliminary works and lab reposts since they don't change over years. (At least now). But we put all documents that pass our Whatsapp groups. All works is free and open. Documents are mostly from 6th terms currently. But still there is tons of documents that we put therefore 5th will uploded soon. 
+
+If there is problem with page or documents please put a [issue](https://guides.github.com/features/issues/). or contact [me](http://nailtosun.me)
+
+
 
 
 # Supplementary
