@@ -15,6 +15,7 @@ If there is problem with page or documents please put a [issue](https://guides.g
 * 2016 311-2 THE's
 * 2016 302 Hw's
 * 2018 5-6th term PEQ
+* 4th year computer option documentations
 
 # Supplementary
 Some programming language tutorials, tips, simulation tools and other things
