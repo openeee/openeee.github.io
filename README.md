@@ -8,7 +8,7 @@ We don't share preliminary works and lab reposts since they don't change over ye
 If there is problem with page or documents please put a [issue](https://guides.github.com/features/issues/). or contact [me](http://nailtosun.me)
 
 # Course repos
-[EE302](https://github.com/openeee/EE302), [EE312](https://github.com/openeee/EE312), [EE311](https://github.com/openeee/EE311), [EE362](https://github.com/openeee/EE362), [EE348](https://github.com/openeee/EE348), [EE202](https://github.com/openeee/EE202), 
+[EE302](https://github.com/openeee/EE302), [EE312](https://github.com/openeee/EE312), [EE361](https://github.com/openeee/EE361) ,[EE311](https://github.com/openeee/EE311), [EE362](https://github.com/openeee/EE362), [EE348](https://github.com/openeee/EE348), [EE202](https://github.com/openeee/EE202), 
 [EE224](https://github.com/openeee/EE224), [EE313](https://github.com/nailtosun/EE313termproject), [EE314](https://github.com/openeee/EE314)
 
 # Upcomings
