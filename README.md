@@ -22,6 +22,7 @@ If there is problem with page or documents please put a [issue](https://guides.g
 * [Ali Aydın](https://github.com/aliaydin96)
 * [Ekin Yılmaz](https://github.com/ekinyilmaz)
 * [Enes Ayaz](https://github.com/EnesAyaz)
+* [Gökhan Çakal](https://github.com/gkhnckl)
 
 # Supplementary
 Some programming language tutorials, tips, simulation tools and other things
