@@ -49,6 +49,7 @@ Some online education sites
 * [CS50x Harvard University](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) (Fundamentals of C,HTML,CSS,JavaScript,PHP,Python)
 
 #### Python 
+* [Python Tutorial (Numpy) cs228 Stanford](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 * [MITx Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 * [Introduction to Computing in Python](https://www.edx.org/xseries/gtx-introduction-to-computing-in-python#courses)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
