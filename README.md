@@ -5,7 +5,7 @@ This site build on GitHub pages that mean its **extremely** easy to use.
 
 We don't share preliminary works and lab reposts since they don't change over years. (At least now). But we put all documents that pass our Whatsapp groups. All works is free and open. Documents are mostly from 6th terms currently. But still there is tons of documents that we put therefore 5th will uploded soon. 
 
-If there is problem with page or documents please put a [issue](https://guides.github.com/features/issues/). or contact [me](http://nailtosun.me)
+If there is problem with page or documents please put a [issue](https://guides.github.com/features/issues/). or contact [me](http://nailtosun.com)
 
 # Course repos
 [EE302](https://github.com/openeee/EE302), [EE312](https://github.com/openeee/EE312), [EE361](https://github.com/openeee/EE361) ,[EE311](https://github.com/openeee/EE311), [EE362](https://github.com/openeee/EE362), [EE348](https://github.com/openeee/EE348), [EE202](https://github.com/openeee/EE202), 
